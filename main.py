@@ -15,8 +15,8 @@ def snakeTable(userArray: List[int]) -> None:
 
     Example:
         Enter the number: 123456
-        135
-        246
+        145
+        236
 
     """
     size = math.ceil(len(userArray) / 2) 
